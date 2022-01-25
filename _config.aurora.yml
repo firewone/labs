@@ -108,7 +108,7 @@ gitalk:
   repo: 'Host'
   owner: 'venomserl'
   admin: ['venomserl']
-  id: uid
+  id: venomserl
   language: en
   distractionFreeMode: true
   recentComment: true
