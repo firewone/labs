@@ -55,7 +55,7 @@ menu:
 theme:
   dark_mode: true
   profile_shape: diamond # support `circle`, `diamond`, `rounded`
-  feature: true
+  feature: false
   gradient:
     color_1: '#833ab4'
     color_2: '#fd1d1d'
