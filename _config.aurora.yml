@@ -11,7 +11,7 @@
 site:
   subtitle: 
   author: Anyshare
-  nick: Anything
+  nick: On Net
   description:
   link: '/'
   language: en
@@ -46,7 +46,7 @@ authors:
 menu:
   About: true
   Tags: true
-  Archives: true
+  Archives: false
 
 #! ---------------------------------------------------------------
 #! Theme Config
@@ -117,9 +117,9 @@ gitalk:
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
 valine:
-  enable: false
-  app_id:
-  app_key:
+  enable: true
+  app_id: NSBQlNfClQ9T6wAvFpuSU11n-MdYXbMMI
+  app_key: RNORua1ky8dHcT8jmoDfJURL
   avatar: ''
   placeholder: Leave your thoughts behind~
   visitor: true
@@ -127,7 +127,7 @@ valine:
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: []
-  admin: 'TriDiamond'
+  admin: 'Venom'
   recentComment: true
 
 # Enable Busuanzi statistic plugin
