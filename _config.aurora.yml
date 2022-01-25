@@ -118,13 +118,13 @@ gitalk:
 # see https://valine.js.org/quickstart.html
 valine:
   enable: true
-  app_id: NSBQlNfClQ9T6wAvFpuSU11n-MdYXbMMI
-  app_key: RNORua1ky8dHcT8jmoDfJURL
+  app_id: 'NSBQlNfClQ9T6wAvFpuSU11n-MdYXbMMI'
+  app_key: 'RNORua1ky8dHcT8jmoDfJURL'
   avatar: ''
   placeholder: Leave your thoughts behind~
   visitor: true
   lang: en
-  avatarForce: false
+  avatarForce: true
   meta: ['nick', 'mail']
   requiredFields: []
   admin: 'Venom'
