@@ -101,13 +101,13 @@ site_meta:
 
 # For local development only!
 gitalk:
-  enable: false
+  enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  clientID: '21c14066b9a9460e74b8'
+  clientSecret: 'b6cb5a72c5e0a5664fd43a2360ca3cb57e90f8d0'
+  repo: 'Hosylt'
+  owner: 'venomserl'
+  admin: ['venomserl']
   id: uid
   language: en
   distractionFreeMode: true
@@ -116,6 +116,7 @@ gitalk:
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
+
 valine:
   enable: true
   app_id: 'NSBQlNfClQ9T6wAvFpuSU11n-MdYXbMMI'
